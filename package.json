@@ -1,0 +1,29 @@
+{
+  "name": "@darshan-gohel/button-babe",
+  "version": "1.0.0",
+  "description": "A sleek, stylish, and customizable React button component for all your clickable needs.",
+  "keywords": [
+    "react",
+    "button",
+    "tailwind",
+    "reusable"
+  ],
+  "homepage": "https://github.com/Darshangohel2610/ReusableButton#readme",
+  "bugs": {
+    "url": "https://github.com/Darshangohel2610/ReusableButton/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darshangohel2610/ReusableButton.git"
+  },
+  "license": "ISC",
+  "author": "Darshan Gohel",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lucide-react": "^0.503.0"
+  }
+}
