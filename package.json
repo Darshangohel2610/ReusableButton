@@ -1,6 +1,6 @@
 {
   "name": "sassy-button",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A sleek, stylish, and customizable React button component for all your clickable needs.",
   "keywords": [
     "react",
@@ -8,7 +8,7 @@
     "tailwind",
     "reusable"
   ],
-  "homepage": "https://github.com/Darshangohel2610/ReusableButton#readme",
+  "homepage": "https://www.npmjs.com/package/sassy-button",
   "bugs": {
     "url": "https://github.com/Darshangohel2610/ReusableButton/issues"
   },
@@ -25,5 +25,9 @@
   },
   "dependencies": {
     "lucide-react": "^0.503.0"
-  }
+  },
+  "files": [
+    "README.md",
+    "index.js"
+  ]
 }
